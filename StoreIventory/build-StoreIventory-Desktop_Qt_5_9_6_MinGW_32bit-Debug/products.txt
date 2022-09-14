@@ -1,0 +1,2 @@
+apple,4,./images/apple.png
+hotdog,3,./images/hotdog.png
